@@ -1,0 +1,15 @@
+# Ignore raw data files
+data/raw/
+
+# Ignore all CSV and Excel files
+*.csv
+*.xlsx
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
