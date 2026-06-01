@@ -279,6 +279,16 @@ The findings indicate that long-term fan loyalty may depend not only on audience
 [View Interactive Dashboard Here](https://public.tableau.com/app/profile/j.ignacio.maldonado/viz/MLSFanIdentitySponsorshipEngagementAnalysis/Dashboard1)
 
 ---
+## Data Sources
+
+- MLS Attendance & Stadium Capacity: Transfermarkt
+- Instagram Followers: Official MLS club Instagram accounts
+- Sponsorship Engagement Data: Official club Instagram posts (likes and comments)
+- Analysis & Visualization: Python, SQL, Tableau
+
+*All data was collected from publicly available sources for educational and analytical purposes.*
+
+---
 
 ## Author
 
